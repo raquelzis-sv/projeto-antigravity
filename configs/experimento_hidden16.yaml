@@ -1,0 +1,6 @@
+learning_rate: 0.001
+hidden_size: 16
+num_epochs: 200
+experiment_name: "iris-mlp"
+run_name: "hidden16"
+question: "Aumentar a camada oculta melhora o desempenho?"
